@@ -67,6 +67,12 @@ header .wrapper .content-wrapper {
   font-weight: 300;
   color: #f2f2f2;
 }
+.sidebar .bio .desc a {
+  color: #fff;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
 .sidebar .bio .social {
   margin-top: 30px;
 }
