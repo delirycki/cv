@@ -292,6 +292,12 @@ header .wrapper .content-wrapper {
     top: 0%;
     left: 0%;
   }
+  .sidebar .bio .desc a {
+    color: #fff;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+  }
   .content {
     margin-left: 0;
     position: relative;
